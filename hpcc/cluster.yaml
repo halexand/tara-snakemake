@@ -1,0 +1,6 @@
+__default__:
+  mem: 4G
+  time: '48:00:00'
+
+compute_sigs:
+  time: '48:00:00'
